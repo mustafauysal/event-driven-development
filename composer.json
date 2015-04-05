@@ -1,0 +1,8 @@
+{
+  "require": {
+    "symfony/event-dispatcher": "~2.6"
+  },
+  "autoload": {
+    "psr-4": {"Acme\\": "src/"}
+  }
+}
